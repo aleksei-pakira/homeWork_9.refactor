@@ -1,4 +1,4 @@
-from home_work9_refactor.model.pages.refactor_practice_form import UserRegistrationPage
+from home_work9_refactor.model.pages.registration_page import UserRegistrationPage
 from home_work9_refactor import resources
 from selene.support.shared import browser
 from selene import browser
